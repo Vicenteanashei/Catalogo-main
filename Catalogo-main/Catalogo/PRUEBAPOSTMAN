@@ -1,0 +1,7 @@
+{
+    "id_producto": 1000,
+    "categoria": "Fragancia",
+    "descripcion": "Perfume floral de alta calidad",
+    "precio": 50.0,
+    "cantidadDisponible": 100
+}
