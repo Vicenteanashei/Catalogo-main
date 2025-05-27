@@ -1,13 +1,17 @@
 package com.Perfulandia.Catalogo.controller;
 
+import java.util.List;
+
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.Perfulandia.Catalogo.model.Catalogo;
+
 import com.Perfulandia.Catalogo.service.CatalogoService;
 
 @RestController
@@ -25,4 +29,8 @@ public class CatalogoController {
         return new ResponseEntity<>(nuevoPedido, HttpStatus.CREATED);
     }
 
+    @GetMapping
+    public ResponseEntity<List<Catalogo>> listar() {
+        return ResponseEntity.ok(catalogoService.obtenerTodos());
+    }
 }

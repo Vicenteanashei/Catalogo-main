@@ -5,3 +5,66 @@
     "precio": 50.0,
     "cantidadDisponible": 100
 }
+{
+    "id_producto": 11,
+    "categoria": "Fragancia",
+    "descripcion": "Perfume chocolate",
+    "precio": 50.0,
+    "cantidadDisponible": 100
+}
+{
+    "id_producto": 22,
+    "categoria": "Fragancia",
+    "descripcion": "Perfume caramelo",
+    "precio": 50.0,
+    "cantidadDisponible": 100
+}
+{
+    "id_producto": 33,
+    "categoria": "Fragancia",
+    "descripcion": "Perfume arandano",
+    "precio": 50.0,
+    "cantidadDisponible": 100
+}
+{
+    "id_producto": 44,
+    "categoria": "Fragancia",
+    "descripcion": "Perfume fresa",
+    "precio": 50.0,
+    "cantidadDisponible": 100
+}
+{
+    "id_producto": 55,
+    "categoria": "Fragancia",
+    "descripcion": "Perfume cereza",
+    "precio": 50.0,
+    "cantidadDisponible": 100
+}
+{
+    "id_producto": 66,
+    "categoria": "Fragancia",
+    "descripcion": "Perfume apple",
+    "precio": 50.0,
+    "cantidadDisponible": 100
+}
+{
+    "id_producto": 77,
+    "categoria": "Fragancia",
+    "descripcion": "Perfume azafranado",
+    "precio": 50.0,
+    "cantidadDisponible": 100
+}
+{
+    "id_producto": 88,
+    "categoria": "Fragancia",
+    "descripcion": "Perfume ahumado",
+    "precio": 50.0,
+    "cantidadDisponible": 100
+}
+{
+    "id_producto": 99,
+    "categoria": "Fragancia",
+    "descripcion": "Perfume barrosluco",
+    "precio": 50.0,
+    "cantidadDisponible": 100
+}
